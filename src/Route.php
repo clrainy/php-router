@@ -46,7 +46,6 @@ class Route
         array_push(self::$routes, $uri);
         array_push(self::$methods, strtoupper($method));
         array_push(self::$callbacks, $callback);
-        print_r($params);
     }
 
     /**
