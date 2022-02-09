@@ -55,8 +55,8 @@ Route::error(function() {
 ```
 
 
-## 解析路由到控制器/方法
-<hr>
+解析路由到控制器/方法
+=====
 
 index.php:
 
