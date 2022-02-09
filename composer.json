@@ -1,0 +1,17 @@
+{
+    "name": "cdyun/php-router",
+    "description": "simple router by PHP",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Cdyun\\PhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cdyun",
+            "email": "121625706@qq.com"
+        }
+    ],
+    "require": {}
+}
